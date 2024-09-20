@@ -1,5 +1,7 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+> A Brief about LendingClub:
+
+LendingClub is the first US based peer to peer lending company, headquarter in SAN Francisco, California to register its offerings as securities and exchange commission. It offers loan trading on secondary market. LendingClub enables borrowers to create unsecured personal loans between 1000 and 40000 with standard loan period of 3 years. LendingClub acts like the "bridge" between borrowers and Investors.
 
 
 ## Table of Contents
